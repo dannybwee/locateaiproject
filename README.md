@@ -10,3 +10,6 @@ To run:
 
 4. To use program, type name of country with no spaces. It also does not allow for special characters
   the number on the side is the 2nd parameter, the store requirement
+
+
+![Example](https://imgur.com/a/AIfT8te)
