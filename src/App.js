@@ -1,5 +1,7 @@
 import React, {useState} from 'react';
 import {useFetch} from "./useFetch"; 
+
+//uses useForm react to make a quick form
 import useForm from 'react-hook-form'
 
 
@@ -47,7 +49,7 @@ const App = () =>{
       </div>
 
       <div>
-        Avg Anual Pop: {data ? data: 'no data collected'}
+        Avg Annual Pop: {data ? data: 'no data collected'}
       </div>
 
       <div>
