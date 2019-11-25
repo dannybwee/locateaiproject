@@ -2,13 +2,11 @@ Very quick and dirty project. Has a lot of improvments I can probably do but thi
 
 To run:
 
-download all files. 
+1. download all files. 
+2. Npm install
+3. npm start
+  if error of Cannot find module babel-preset-react-app/node_modules/@babel/runtime/helpers/slicedToArray
+  type npm add @babel/runtime
 
-Npm install
-
-if error of Cannot find module babel-preset-react-app/node_modules/@babel/runtime/helpers/slicedToArray
-
-type npm add @babel/runtime
-
-To use program, type name of country with no spaces. It also does not allow for special characters
-the number on the side is the 2nd parameter, the store requirement
+4. To use program, type name of country with no spaces. It also does not allow for special characters
+  the number on the side is the 2nd parameter, the store requirement
