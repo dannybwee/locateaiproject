@@ -1,4 +1,4 @@
-Quick project
+Very quick and dirty project. Has a lot of improvments I can probably do but this should do the trick.
 
 To run:
 
