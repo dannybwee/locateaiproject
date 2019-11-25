@@ -1,6 +1,7 @@
 import {useEffect, useState} from 'react'
 
 
+//sets data to state and formats the data. Submits it as a json.
 export const useFetch = (url) => {
 
     const [state, setState] = useState({data: null, loading: true});

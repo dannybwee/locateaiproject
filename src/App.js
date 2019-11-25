@@ -27,6 +27,9 @@ const App = () =>{
   
   return (
     
+
+    //Form with quick and dirty breaks to seperate the divs
+    //could potentially format data on the usefetch or on submit functions.
     <div className="App">
         <form onSubmit={handleSubmit(onSubmit)}>
           <input name="state" defaultValue={values} required pattern ="[0-9a-zA-Z_.-]*" ref={register({ required: true })}/>
